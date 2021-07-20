@@ -1,0 +1,5 @@
+.env
+db.sqlite3
+*.pyc
+/envAuth0/
+/auth0authorization/migrations/
